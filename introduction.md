@@ -1,1 +1,1 @@
-Komora is the edge-FIRST database.
+Komora is a collection of small, solid components for systems engineering.
